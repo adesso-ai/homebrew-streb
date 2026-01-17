@@ -9,24 +9,24 @@
 class Streb < Formula
   desc "CLI tool for bootstrapping Claude Code development environments"
   homepage "https://github.com/StefanTrockel/streb"
-  version "0.5.3"
+  version "0.5.4"
   license :cannot_represent
 
   on_macos do
     on_arm do
-      url "https://github.com/StefanTrockel/streb/releases/download/v0.5.3/streb_darwin_arm64.tar.gz"
-      sha256 "ce933295ce90d0a713c3c488832c0a27f2ef4aacb13e18105a86b276b65be94d"
+      url "https://github.com/StefanTrockel/streb/releases/download/v0.5.4/streb_darwin_arm64.tar.gz"
+      sha256 "04e7be8ffbe9e6a82fb2a027e4bb1142517eae866a40292fefc97c4a43e0bd7b"
     end
     on_intel do
-      url "https://github.com/StefanTrockel/streb/releases/download/v0.5.3/streb_darwin_amd64.tar.gz"
-      sha256 "41a71ccab97cc560a2e6bf52e48db14683c8d132f2106c820a084d9f563a52e0"
+      url "https://github.com/StefanTrockel/streb/releases/download/v0.5.4/streb_darwin_amd64.tar.gz"
+      sha256 "70c047fd978e6b624350af520f61f3e8bb8898e9f196f322729a884b0af574ca"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/StefanTrockel/streb/releases/download/v0.5.3/streb_linux_amd64.tar.gz"
-      sha256 "d8c5cebc05c33bb6d483fd4bec724feb4ea81097c1d499680952f17d9825a382"
+      url "https://github.com/StefanTrockel/streb/releases/download/v0.5.4/streb_linux_amd64.tar.gz"
+      sha256 "49523ee5b4be6ff3a55a2cdf4e27fecd14ad086c35b6a9e1d6e37823739c4f60"
     end
   end
 

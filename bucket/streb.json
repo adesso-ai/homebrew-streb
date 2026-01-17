@@ -1,5 +1,5 @@
 {
-  "version": "0.5.3",
+  "version": "0.5.4",
   "description": "CLI tool for bootstrapping Claude Code development environments",
   "homepage": "https://github.com/StefanTrockel/streb",
   "license": {
@@ -8,8 +8,8 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://github.com/StefanTrockel/streb/releases/download/v0.5.3/streb_windows_amd64.zip",
-      "hash": "0867d9b2297223f6040ba0b60169a2590d4274dbb7b05f61864b819d6766308d"
+      "url": "https://github.com/StefanTrockel/streb/releases/download/v0.5.4/streb_windows_amd64.zip",
+      "hash": "d908ca4f83022bb06db6049634f83fed8678bcd02300c19c5fb9478d41becaa4"
     }
   },
   "bin": "streb.exe",
