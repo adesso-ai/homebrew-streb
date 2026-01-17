@@ -42,5 +42,4 @@ Found a bug? Have a feature request?
 ## Links
 
 - [Website](https://strebcli.dev)
-- [Documentation](https://strebcli.dev#features)
-- [Installation Guide](https://strebcli.dev#installation)
+
