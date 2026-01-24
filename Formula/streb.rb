@@ -15,18 +15,18 @@ class Streb < Formula
   on_macos do
     on_arm do
       url "https://github.com/adesso-ai/homebrew-streb/releases/download/v0.7.18/streb_darwin_arm64.tar.gz"
-      sha256 "11602591075ba8a76952c04f5fb68cc0d3bce7194eb1d23c404684d4973962ab"
+      sha256 "d48767865477ab13ce83aa48dae72265ada5d51d9703bdb8caa38b97f721601a"
     end
     on_intel do
       url "https://github.com/adesso-ai/homebrew-streb/releases/download/v0.7.18/streb_darwin_amd64.tar.gz"
-      sha256 "505f3d97851fecb0d16f0b3ae199de1cd1e53224917bb9028c5ac8b1b15053d5"
+      sha256 "3ab572f24ec20efb247c566554c3f00385c7dbba4d84563e21cacdc0471ab71b"
     end
   end
 
   on_linux do
     on_intel do
       url "https://github.com/adesso-ai/homebrew-streb/releases/download/v0.7.18/streb_linux_amd64.tar.gz"
-      sha256 "65f84d30b47ca2c7c1a303b3a92aee0f15f35dae998a552139ff1af0c1bec5cf"
+      sha256 "9356ac7ccd8a5eb910d2802f30935ccf46516b57b8e217915e751e33cd6c6bc4"
     end
   end
 

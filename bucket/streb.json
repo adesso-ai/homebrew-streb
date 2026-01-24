@@ -9,7 +9,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/adesso-ai/homebrew-streb/releases/download/v0.7.18/streb_windows_amd64.zip",
-      "hash": "4dc79302ec9404d88a7f1db6d4c0567cf19881cb1fd6d06e8cc21c59a6eac6ac"
+      "hash": "d1f0c17534470f6e29611837892a5e8219a29cfddfc9ba4b2d503246b47013db"
     }
   },
   "bin": "streb.exe",
