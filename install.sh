@@ -10,8 +10,8 @@
 set -euo pipefail
 
 # --- Release metadata (auto-updated by CI) ---
-VERSION="0.9.28"
-SHA256_LINUX_AMD64="ebc9496766022ac574a533ad98992969f54852705622da530ed87087ea14af86"
+VERSION="0.9.29"
+SHA256_LINUX_AMD64="67d5fa1908964423e49703c76398193f556ff1f2c4c3e3d9e978960705adac85"
 # ---
 
 REPO="adesso-ai/homebrew-streb"
